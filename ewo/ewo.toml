@@ -1,0 +1,17 @@
+[info]
+name = "ewondo"
+description = "Ewondo Config File"
+authors = ["Brady Fomegne <brady.fomegne@outlook.com>"]
+website = "https://github.com/pythonbrad"
+version = "2024-04-25"
+
+[core]
+buffer_size = 64
+auto_capitalize = true
+auto_commit = false
+
+[translation]
+dictionary = { path = "./dictionary.toml" }
+
+[data]
+clafrica = { path = "../clafrica/clafrica.toml" }
