@@ -19,6 +19,10 @@ Clafrica extension for the Nufi language.
 Configuration for the Ethiopic input method. 
 - Ethiopic code
 
+## [Ewondo](ewo)
+Configuration for the Ewondo input method.
+- Dictionary of Ewondo words
+
 ## [Geez](gez)
 Configuration for the Geez input method. 
 - Geez code
